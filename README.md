@@ -8,5 +8,6 @@ Selected work:
 - Fleetpass — vehicle and driver document tracking
 - Mular — stablecoin-to-Naira payments
 - Kolibri — offline-first education workflows and design systems
+- Webflow Element Copier — browser extension, design-engineering experiment: https://github.com/tomiwao/webflow-element-copier
 
 Portfolio: https://tomiwao.com
